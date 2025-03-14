@@ -1,0 +1,9 @@
+{
+    "temperature": 0.7,
+    "top_p": 0.95,
+    "top_k": 40,
+    "max_output_tokens": 1024,
+    "max_retries": 3,
+    "base_wait_time": 1,
+    "cache_ttl": 3600
+}
